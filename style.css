@@ -53,7 +53,7 @@ header {
 
 .nav_links li {
     display: inline-block;
-    padding: 0px 20px;    
+    padding: 0px 20px;        
 }
 
 .nav_links li a{
@@ -99,6 +99,14 @@ header {
     background-size: 100%;
     background-repeat: no-repeat;
     background-attachment: fixed;
+  }
+
+  .contact{
+       background: rgb(47, 14, 100);
+    padding: 20px;
+    margin: 15px;
+    z-index: 1;
+    opacity: 0.7;
   }
 
 
